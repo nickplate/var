@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1506084804 source:c:\users\alumno\desktop\abm con relaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506093010 source:c:\users\alumno\desktop\abm con relaciones y hardcode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1506172190 source:c:\users\paul\downloads\programacion y lab 1\programacion y lab 1\abm con relaciones y hardcode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
