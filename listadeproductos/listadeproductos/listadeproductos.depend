@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1504972171 source:c:\users\alumno\desktop\listadeproductos\listadeproductos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1504972803 source:g:\listadeproductos\listadeproductos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1504972803 source:c:\users\jaku\documents\carrera programacion superior\primer cuatrimestre\programacion y lab 1\listadeproductos\listadeproductos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1504972803 source:c:\users\paul\downloads\programacion y lab 1\programacion y lab 1\listadeproductos\listadeproductos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
