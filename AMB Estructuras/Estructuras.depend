@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1505393871 source:c:\users\alumno\desktop\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505393672 c:\users\alumno\desktop\estructuras\medicamentos.h
+
+1505391990 source:c:\users\alumno\desktop\estructuras\medicamentos.c
+	<stdio.h>
+	"Medicamentos.h"
+
+1505400066 source:c:\users\alumno\desktop\amb estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505399828 c:\users\alumno\desktop\amb estructuras\medicamentos.h
+
+1505400048 source:c:\users\alumno\desktop\amb estructuras\medicamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Medicamentos.h"
+
+1505400066 source:c:\users\jaku\documents\carrera programacion superior\primer cuatrimestre\programacion y lab 1\amb estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505399828 c:\users\jaku\documents\carrera programacion superior\primer cuatrimestre\programacion y lab 1\amb estructuras\medicamentos.h
+
+1505400491 source:c:\users\jaku\documents\carrera programacion superior\primer cuatrimestre\programacion y lab 1\amb estructuras\medicamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Medicamentos.h"
+
+1505400066 source:c:\users\paul\downloads\programacion y lab 1\programacion y lab 1\amb estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Medicamentos.h"
+
+1505399828 c:\users\paul\downloads\programacion y lab 1\programacion y lab 1\amb estructuras\medicamentos.h
+
+1505400491 source:c:\users\paul\downloads\programacion y lab 1\programacion y lab 1\amb estructuras\medicamentos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Medicamentos.h"
+
